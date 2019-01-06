@@ -20,7 +20,7 @@
       "seriesNo" : "472832",
       "programs" : "S01_V0000305532",
       "sort" : "new",
-      "limit" : "16",
+      "limit" : 16,
       "itemList" : [
           { "title" : "맛집", "id" : "1", "img" : "", "sort" : "1"}
       ]
