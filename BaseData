@@ -12,7 +12,7 @@
       "type" : "0",
       "typecnt" : "0",
       "typenames" : [""],
-      "mainUrl" : "http://apis.sbs.co.kr/foodstar-api/1.1/search/list",
+      "mainUrl" : "http://apis.sbs.co.kr/foodstar-api/1.1/search/",
       "url" : "http://m.post.naver.com/my/series/detail/",
       "searchUrl" : "http://m.post.naver.com/search/authorPost/",
       "postId" : "11773044",
