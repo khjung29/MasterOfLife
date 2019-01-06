@@ -22,8 +22,7 @@
       "sort" : "new",
       "limit" : "16",
       "itemList" : [
-          { "title" : "전체레시피", "id" : "2", "img" : "", "sort" : "1"},
-          { "title" : "메인레시피", "id" : "1", "img" : "", "sort" : "2"}
+          { "title" : "맛집", "id" : "1", "img" : "", "sort" : "1"}
       ]
     }    
   ]
